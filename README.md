@@ -47,6 +47,6 @@
 <p align="center">
   <img height="49.5%" width="49.5%" src="https://github-readme-stats.vercel.app/api?username=arminZolfaghari&show_icons=true&include_all_commits=true&theme=darcula" >
 <!--   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=arminZolfaghari&theme=darcula&langs_count=6&hide=c" alt="Armin Zolfaghari's Github Steak" /> -->
-  <img height="49.5%" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arminzolfaghari&layout=compact&theme=darcula&langs_count=6&hide=c" />
+  <img height="49.5%" width="41.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arminzolfaghari&layout=compact&theme=darcula&langs_count=6&hide=c" />
 </p>
 
