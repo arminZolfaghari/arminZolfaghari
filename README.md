@@ -1,5 +1,5 @@
 
-<h2 align="center">Hi 👋, I'm Armin Zolfaghari Daryani</h2>
+<h2 align="center">Hi 👋, I'm Armin Zolfaghari Dariani</h2>
 <!-- <h3 align="center">A backend developer</h3> -->
 
 <!-- #### Hi 👋, I'm Armin Zolfaghari Daryani -->
