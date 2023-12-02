@@ -4,7 +4,8 @@
 
 <!-- #### Hi 👋, I'm Armin Zolfaghari Daryani -->
 - 🎓 Studying B.Sc. Computer Engineering at [Amirkabir University of Technology](https://aut.ac.ir)
-- 📚 Interested in Artificial intelligence and Internet of Things
+- 📚 My research interests are <b>Neuroscience and AI, Computer Vision, Generative Models, Medical Machine Learning, Data Mining, and Cognitive Science </b>. 
+
 - 📫 How to reach me: <br> <br>
 [![](https://img.shields.io/badge/-arminzolfagharid@gmail.com-black?style=flat-circle&logo=gmail)](mailto:arminzolfagharid@gmail.com)
 <a href="https://www.linkedin.com/in/armin-zolfaghari-daryani/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
