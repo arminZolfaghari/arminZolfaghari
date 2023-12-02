@@ -3,7 +3,7 @@
 <!-- <h3 align="center">A backend developer</h3> -->
 
 <!-- #### Hi 👋, I'm Armin Zolfaghari Daryani -->
-- 🎓 Studying B.Sc. Computer Engineering at [Amirkabir University of Technology](https://aut.ac.ir)
+- 🎓 I'm a senior undergraduate Computer Engineering student at [Amirkabir University of Technology](https://aut.ac.ir)
 - 📚 My research interests are <b>Neuroscience and AI, Computer Vision, Generative Models, Medical Machine Learning, Data Mining, and Cognitive Science </b>. 
 
 - 📫 How to reach me: <br> <br>
